@@ -79,6 +79,7 @@ framework/com.google.android.maps.jar
 lib/libspeech.so
 lib/libtalk_jni.so
 lib/libvoicesearch.so
+lib/libtalk_jni.so
 etc/hosts
 etc/custom_backup_list.txt
 etc/force_backuptool
